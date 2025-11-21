@@ -16,5 +16,5 @@ Buat fungsi untuk membalik urutan kata dalam sebuah kalimat, tanpa membalik huru
 Catatan: Kode Ada di Folder bin dan juga test untuk skenario unit test
 
 Untuk menjalankannya di terminal gunakan perintah:
-dart run bin/soal_pertama.dart
-dart run bin/soal_kedua.dart
+- dart run bin/soal_pertama.dart
+- dart run bin/soal_kedua.dart
